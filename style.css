@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(14, 236, 248);
+}
+
+.img1{
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    border: 5px dashed black;
+    margin: 15px;
+    background-color:rgb(251, 136, 5);
+}
+
+.special_nav{
+    background-color: blueviolet;
+}
+
+main{
+    background-color: rgb(249, 203, 21);
+}
+
+h1{
+ text-align: center;
+}
+
+.img2{
+     text-align: center;
+     border-left: 10px dotted black ;
+     margin: 10px;
+}
+
+.p{
+    font-size: 22px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius:20px;
+}
+
+.p1{
+    font-size: 22px;
+    text-align: left;
+    border: 10px solid orangered;
+}
